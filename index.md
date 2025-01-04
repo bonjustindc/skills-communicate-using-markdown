@@ -9,3 +9,6 @@
 ``` python
 String greeting = "Hello, world!"
 ```
+- [ ] Finish the markdown course
+- [ ] Refresher on Web Development
+- [ ] Workout
